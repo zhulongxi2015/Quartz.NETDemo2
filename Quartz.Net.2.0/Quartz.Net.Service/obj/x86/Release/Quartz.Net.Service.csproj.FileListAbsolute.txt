@@ -1,0 +1,29 @@
+D:\net-lab\Demos\Quartz.Net.2.0\Quartz.Net.Service\bin\Release\Quartz.Net.Service.exe.config
+D:\net-lab\Demos\Quartz.Net.2.0\Quartz.Net.Service\bin\Release\Quartz.Net.Service.exe
+D:\net-lab\Demos\Quartz.Net.2.0\Quartz.Net.Service\bin\Release\Quartz.Net.Service.pdb
+D:\net-lab\Demos\Quartz.Net.2.0\Quartz.Net.Service\bin\Release\Common.Logging.dll
+D:\net-lab\Demos\Quartz.Net.2.0\Quartz.Net.Service\bin\Release\Quartz.dll
+D:\net-lab\Demos\Quartz.Net.2.0\Quartz.Net.Service\bin\Release\C5.dll
+D:\net-lab\Demos\Quartz.Net.2.0\Quartz.Net.Service\obj\x86\Release\ResolveAssemblyReference.cache
+D:\net-lab\Demos\Quartz.Net.2.0\Quartz.Net.Service\obj\x86\Release\Quartz.Net.Service.ProjectInstaller.resources
+D:\net-lab\Demos\Quartz.Net.2.0\Quartz.Net.Service\obj\x86\Release\GenerateResource.read.1.tlog
+D:\net-lab\Demos\Quartz.Net.2.0\Quartz.Net.Service\obj\x86\Release\GenerateResource.write.1.tlog
+D:\net-lab\Demos\Quartz.Net.2.0\Quartz.Net.Service\obj\x86\Release\Quartz.Net.Service.exe
+D:\net-lab\Demos\Quartz.Net.2.0\Quartz.Net.Service\obj\x86\Release\Quartz.Net.Service.pdb
+D:\net-lab\Demos\Quartz.Net.2.0\Quartz.Net.Service\bin\Release\Common.Logging.Log4Net.dll
+D:\net-lab\Demos\Quartz.Net.2.0\Quartz.Net.Service\bin\Release\log4net.dll
+D:\net-lab\Demos\Quartz.Net.2.0\Quartz.Net.Service\bin\Release\quartz.config
+D:\Learning\Architecture\Quartz-2.0Demo\Quartz 2.0示例\Quartz.Net.2.0\Quartz.Net.Service\bin\Release\quartz.config
+D:\Learning\Architecture\Quartz-2.0Demo\Quartz 2.0示例\Quartz.Net.2.0\Quartz.Net.Service\bin\Release\Quartz.Net.Service.exe.config
+D:\Learning\Architecture\Quartz-2.0Demo\Quartz 2.0示例\Quartz.Net.2.0\Quartz.Net.Service\bin\Release\Quartz.Net.Service.exe
+D:\Learning\Architecture\Quartz-2.0Demo\Quartz 2.0示例\Quartz.Net.2.0\Quartz.Net.Service\bin\Release\Quartz.Net.Service.pdb
+D:\Learning\Architecture\Quartz-2.0Demo\Quartz 2.0示例\Quartz.Net.2.0\Quartz.Net.Service\bin\Release\Common.Logging.dll
+D:\Learning\Architecture\Quartz-2.0Demo\Quartz 2.0示例\Quartz.Net.2.0\Quartz.Net.Service\bin\Release\Common.Logging.Log4Net.dll
+D:\Learning\Architecture\Quartz-2.0Demo\Quartz 2.0示例\Quartz.Net.2.0\Quartz.Net.Service\bin\Release\Quartz.dll
+D:\Learning\Architecture\Quartz-2.0Demo\Quartz 2.0示例\Quartz.Net.2.0\Quartz.Net.Service\bin\Release\log4net.dll
+D:\Learning\Architecture\Quartz-2.0Demo\Quartz 2.0示例\Quartz.Net.2.0\Quartz.Net.Service\bin\Release\C5.dll
+D:\Learning\Architecture\Quartz-2.0Demo\Quartz 2.0示例\Quartz.Net.2.0\Quartz.Net.Service\obj\x86\Release\Quartz.Net.Service.csprojResolveAssemblyReference.cache
+D:\Learning\Architecture\Quartz-2.0Demo\Quartz 2.0示例\Quartz.Net.2.0\Quartz.Net.Service\obj\x86\Release\Quartz.Net.Service.ProjectInstaller.resources
+D:\Learning\Architecture\Quartz-2.0Demo\Quartz 2.0示例\Quartz.Net.2.0\Quartz.Net.Service\obj\x86\Release\Quartz.Net.Service.csproj.GenerateResource.Cache
+D:\Learning\Architecture\Quartz-2.0Demo\Quartz 2.0示例\Quartz.Net.2.0\Quartz.Net.Service\obj\x86\Release\Quartz.Net.Service.exe
+D:\Learning\Architecture\Quartz-2.0Demo\Quartz 2.0示例\Quartz.Net.2.0\Quartz.Net.Service\obj\x86\Release\Quartz.Net.Service.pdb

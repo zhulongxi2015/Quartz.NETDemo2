@@ -1,0 +1,12 @@
+D:\net-lab\Demos\Quartz.Net.2.0\Quartz.Net.Service\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\net-lab\Demos\Quartz.Net.2.0\Quartz.Net.Service\obj\x86\Debug\Quartz.Net.Service.ProjectInstaller.resources
+D:\net-lab\Demos\Quartz.Net.2.0\Quartz.Net.Service\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\net-lab\Demos\Quartz.Net.2.0\Quartz.Net.Service\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\net-lab\Demos\Quartz.Net.2.0\Quartz.Net.Service\bin\Debug\Quartz.Net.Service.exe.config
+D:\net-lab\Demos\Quartz.Net.2.0\Quartz.Net.Service\bin\Debug\Quartz.Net.Service.exe
+D:\net-lab\Demos\Quartz.Net.2.0\Quartz.Net.Service\bin\Debug\Quartz.Net.Service.pdb
+D:\net-lab\Demos\Quartz.Net.2.0\Quartz.Net.Service\bin\Debug\Common.Logging.dll
+D:\net-lab\Demos\Quartz.Net.2.0\Quartz.Net.Service\bin\Debug\Quartz.dll
+D:\net-lab\Demos\Quartz.Net.2.0\Quartz.Net.Service\bin\Debug\C5.dll
+D:\net-lab\Demos\Quartz.Net.2.0\Quartz.Net.Service\obj\x86\Debug\Quartz.Net.Service.exe
+D:\net-lab\Demos\Quartz.Net.2.0\Quartz.Net.Service\obj\x86\Debug\Quartz.Net.Service.pdb

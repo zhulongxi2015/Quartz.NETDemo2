@@ -1,0 +1,9 @@
+D:\net-lab\Demos\Quartz.Net.2.0\Quartz.Net.Demo\bin\Release\Quartz.Net.Demo.dll
+D:\net-lab\Demos\Quartz.Net.2.0\Quartz.Net.Demo\bin\Release\Quartz.Net.Demo.pdb
+D:\net-lab\Demos\Quartz.Net.2.0\Quartz.Net.Demo\bin\Release\Common.Logging.dll
+D:\net-lab\Demos\Quartz.Net.2.0\Quartz.Net.Demo\bin\Release\log4net.dll
+D:\net-lab\Demos\Quartz.Net.2.0\Quartz.Net.Demo\bin\Release\Quartz.dll
+D:\net-lab\Demos\Quartz.Net.2.0\Quartz.Net.Demo\bin\Release\C5.dll
+D:\net-lab\Demos\Quartz.Net.2.0\Quartz.Net.Demo\obj\Release\ResolveAssemblyReference.cache
+D:\net-lab\Demos\Quartz.Net.2.0\Quartz.Net.Demo\obj\Release\Quartz.Net.Demo.dll
+D:\net-lab\Demos\Quartz.Net.2.0\Quartz.Net.Demo\obj\Release\Quartz.Net.Demo.pdb
